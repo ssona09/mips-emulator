@@ -1,4 +1,5 @@
-# mips-emulator
+A simple MIPS emulator using C, for UNSW COMP1521 20T2
+
 # Assignment 2: smips, Simple MIPS
 
 ```
